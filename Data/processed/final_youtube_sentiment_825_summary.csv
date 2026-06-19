@@ -1,0 +1,5 @@
+﻿label,before_count,selected_count,removed_count,target_per_class
+negative,311,275,36,275
+neutral,275,275,0,275
+positive,303,275,28,275
+total,889,825,64,275

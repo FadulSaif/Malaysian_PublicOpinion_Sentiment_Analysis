@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+streamlit
+plotly
+torch
+transformers
+sentencepiece
+safetensors
+tqdm
+google-api-python-client
+python-dotenv
+langdetect
+emoji
