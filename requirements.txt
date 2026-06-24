@@ -2,13 +2,13 @@ pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
 joblib
 streamlit
 plotly
 torch
 transformers
-sentencepiece
+datasets
+accelerate
 safetensors
 tqdm
 google-api-python-client

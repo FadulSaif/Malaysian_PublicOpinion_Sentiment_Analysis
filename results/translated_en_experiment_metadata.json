@@ -1,0 +1,22 @@
+{
+    "dataset": "C:\\Users\\FadSaif\\Documents\\malaysia_sentiment_project_2\\Data\\processed\\final_youtube_sentiment_translated_en_cleaned_v2_balanced.csv",
+    "text_column": "translated_text_en",
+    "label_column": "sentiment",
+    "experiment_type": "English-translated dataset evaluation",
+    "train_size": 360,
+    "test_size": 90,
+    "random_state": 42,
+    "models_compared": [
+        "Tuned English Word + Character TF-IDF + Linear SVM",
+        "Word + Char TF-IDF + Logistic Regression",
+        "Tuned English TF-IDF + Linear SVM",
+        "Tuned English TF-IDF + Logistic Regression",
+        "Word + Char TF-IDF + Linear SVM",
+        "TF-IDF + Logistic Regression",
+        "TF-IDF + Linear SVM",
+        "Fine-Tuned DistilBERT English"
+    ],
+    "best_model_by_macro_f1": "Tuned English Word + Character TF-IDF + Linear SVM",
+    "best_macro_f1": 0.7407407407407408,
+    "best_accuracy": 0.7444444444444445
+}
